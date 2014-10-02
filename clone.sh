@@ -1,0 +1,24 @@
+git clone https://github.com/vert-x/mod-lang-ceylon.git
+git clone https://github.com/vert-x/mod-redis.git
+git clone https://github.com/vert-x/mod-mongo-persistor.git
+git clone https://github.com/vert-x/mod-mysql-postgresql.git
+git clone https://github.com/vert-x/openshift-cartridge.git
+git clone https://github.com/vert-x/mod-lang-clojure.git
+git clone https://github.com/vert-x/mod-lang-jruby.git
+git clone https://github.com/vert-x/mod-lang-scala.git
+git clone https://github.com/vert-x/mod-lang-groovy.git
+git clone https://github.com/vert-x/vert-x.github.io.git
+git clone https://github.com/vert-x/mod-lang-php.git
+git clone https://github.com/vert-x/mod-web-server.git
+git clone https://github.com/vert-x/mod-lang-jython.git
+git clone https://github.com/vert-x/mod-rxvertx.git
+git clone https://github.com/vert-x/jca-adaptor.git
+git clone https://github.com/vert-x/mod-lang-js.git
+git clone https://github.com/vert-x/mod-lang-dynjs.git
+git clone https://github.com/vert-x/mod-lang-rhino.git
+git clone https://github.com/vert-x/mod-lang-nashorn.git
+git clone https://github.com/vert-x/mod-mailer.git
+git clone https://github.com/vert-x/mod-work-queue.git
+git clone https://github.com/vert-x/mod-auth-mgr.git
+git clone https://github.com/eclipse/vert.x.git
+
